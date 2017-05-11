@@ -190,7 +190,7 @@
         <!-- /.dropdown-alerts -->
     </li>
     <!-- /.dropdown -->
-    <label class="dasdas"><?php echo $nama_lengkap;?></label>
+    <a href="#"><b><?php echo $nama_lengkap;?></b></a>
     <li class="dropdown">
         <a class="dropdown-toggle" data-toggle="dropdown" href="#">
             <i class="fa fa-user fa-fw"></i>  <i class="fa fa-caret-down"></i>

@@ -7,25 +7,25 @@ These Windows services are started:
    Background Intelligent Transfer Service
    Background Tasks Infrastructure Service
    Base Filtering Engine
-   CDPUserSvc_4e21f
+   CDPUserSvc_bc71a
    CNG Key Isolation
    COM+ Event System
    Connected User Experiences and Telemetry
    CoreMessaging
    Credential Manager
    Cryptographic Services
+   Data Sharing Service
    DCOM Server Process Launcher
    Delivery Optimization
    Device Association Service
-   Device Setup Manager
    DHCP Client
    Diagnostic Policy Service
    Diagnostic Service Host
    Diagnostic System Host
    Distributed Link Tracking Client
    DNS Client
-   Gammu SMSD Service (GammuSMSD)
    Geolocation Service
+   Group Policy Client
    Human Interface Device Service
    HWDeviceService64.exe
    IP Helper
@@ -41,7 +41,6 @@ These Windows services are started:
    Network Store Interface Service
    NitroPDFDriverCreatorReadSpool9
    Plug and Play
-   Portable Device Enumerator Service
    Power
    Print Spooler
    Program Compatibility Assistant Service
@@ -56,7 +55,7 @@ These Windows services are started:
    State Repository Service
    Storage Service
    Superfetch
-   Sync Host_4e21f
+   Sync Host_bc71a
    SynTPEnh Caller Service
    System Event Notification Service
    System Events Broker
@@ -81,7 +80,6 @@ These Windows services are started:
    Windows Push Notifications System Service
    Windows Search
    Windows Update
-   WinHTTP Web Proxy Auto-Discovery Service
    WLAN AutoConfig
    Workstation
    WWAN AutoConfig
